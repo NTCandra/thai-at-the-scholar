@@ -1,0 +1,12 @@
+{
+  "useMarkdownLinks": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "_Assets",
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "promptDelete": false,
+  "trashOption": "local",
+  "userIgnoreFilters": [".git"]
+}
